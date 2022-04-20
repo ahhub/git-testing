@@ -3,3 +3,5 @@ A new and second line added in second.txt
 this line added afeter the emergency brach merged with master brach
 this is enough
 hey I am new here
+new added in master branch
+hey and hee
