@@ -1,2 +1,3 @@
 first line added in second.txt
 A new and second line added in second.txt
+this line added afeter the emergency brach merged with master brach
